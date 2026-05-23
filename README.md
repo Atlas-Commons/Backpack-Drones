@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/Viking-Studios-Arma/ONI_Recon_Essentials/blob/5d17ad1523638d20144793f82f990c9eececcb5a/Falcon%20flight%20banner%20W-logo.png" alt="ONI Recon Banner Banner" />
+	<img src="https://github.com/Atlas-Commons/ONI_Recon_Essentials/blob/5d17ad1523638d20144793f82f990c9eececcb5a/Falcon%20flight%20banner%20W-logo.png" alt="ONI Recon Banner Banner" />
 	<br />
 	<a href="https://discord.gg/9pJTHHzaFC">
 		<img src="https://img.shields.io/discord/1032437213100777502.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Discord Server">
@@ -14,14 +14,14 @@
 	<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3016023028">
 		<img src="https://img.shields.io/steam/size/3108371604?label=Download&logo=steam" alt="Download" />
 	</a>
-	<a href="https://github.com/Viking-Studios-Arma/Backpack-Drones/releases">
-		<img src="https://img.shields.io/github/release/Viking-Studios-Arma/Backpack-Drones.svg?label=Version" alt="Version" />
+	<a href="https://github.com/Atlas-Commons/Backpack-Drones/releases">
+		<img src="https://img.shields.io/github/release/Atlas-Commons/Backpack-Drones.svg?label=Version" alt="Version" />
 	</a>
-	<a href="https://github.com/Viking-Studios-Arma/Backpack-Drones/issues">
-		<img src="http://img.shields.io/github/issues-raw/Viking-Studios-Arma/Backpack-Drones?label=Issues&style=flat" alt="Issues" />
+	<a href="https://github.com/Atlas-Commons/Backpack-Drones/issues">
+		<img src="http://img.shields.io/github/issues-raw/Atlas-Commons/Backpack-Drones?label=Issues&style=flat" alt="Issues" />
 	</a>
-	<a href="Viking-Studios-Arma/Backpack-Drones/blob/main/LICENSE">
-		<img src="https://img.shields.io/github/license/Viking-Studios-Arma/Backpack-Drones.svg?style=flat&label=Licence" alt="License">
+	<a href="Atlas-Commons/Backpack-Drones/blob/main/LICENSE">
+		<img src="https://img.shields.io/github/license/Atlas-Commons/Backpack-Drones.svg?style=flat&label=Licence" alt="License">
 	</a>
 </p>
 
@@ -65,4 +65,16 @@ Be aware, that the names of the `.bisign` and `.bikey` files depend on the lates
 ## Naming conventions
 For standardisation between class names and to prevent any possible future conflicts with class names the following naming convention has been developed:
 - for code: VS_Core
-- for presentation: Viking Studios - {Addon Name}
+- for presentation: Atlas Commons - {Addon Name}
+
+---
+
+## Atlas Commons — legal notices
+
+This project is part of **Atlas Commons**, managed and financed by **Atlas Tech Solutions Ltd**. **Atlas Tech Solutions Ltd is not responsible or liable for this software** except as expressly stated in the applicable license.
+
+| Document | Purpose |
+|----------|---------|
+| [CORPORATE-LIABILITY-DISCLAIMER.md](./CORPORATE-LIABILITY-DISCLAIMER.md) | Corporate sponsor liability disclaimer |
+| [DCO](./DCO) | Developer Certificate of Origin (required for contributions) |
+| [CONTRIBUTING.md](./CONTRIBUTING.md) | Contribution guidelines and DCO sign-off |
